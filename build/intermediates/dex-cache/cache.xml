@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/f910617f02a7d1292c9f55f4cff7dccbe71943e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_e094028920953f5d2abb103fc0d93483ceceaf88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_17848dd158dc1ad1e41b992f06092e82409f2247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/11283777933e6a9e6d1b92fae0185b926b6cd195/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_bd35a11cd53dff81719cf1b69bd338e5acd77db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/cd51bb9269222816f71afc42f7f330d17f8bf607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_bd42848db4d178703b417f0b3ef87b2259ec7f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/686fe7e95dbcc0ba5d6426a6ec51b6b4b3d70d76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_877b23264ce2f0bc06bfa77afec3d81e08d9154b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/7d55a8865fc488f39ee5ed0d115cca0432d3dd81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_48fe3cad80561bb0fa4c303f5f232a772c3f2ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/4f8ca061e40cfe9512e4e8716729ff10bb723f42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_40368556fb09ede45e3ee69c588ee072bd9f6019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/9ebe6b09a6255f5e383eb91d2543a18de8552ee0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_d6d4084c83bee8061d089657ac67194c1676db6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="643bbb1f13ce61a9edb0edae2d025cdb8386d478">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e3372dfca5f230f53391cc2bd6f47a25cf81540/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_be75a6cc716b69d4ae457635c119cd1a87f76052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/a4fdf218b20ad2e28f6edf9194ad663eacf4f7d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_f0d79c102adfef192fe4b88b5b7eb94b9ed4d826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/c8414ee3b1efeb5718ea034dc4639d05f1ff255b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_b68a17b388c8c52f54a2e1d62d27516ff4e48126.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_510d1cff157a5440f03ea4f3656e9da70945790c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_c4f7dd9b8046033ecf1515d530266bd52dab72cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/838095217e19f2a9868746992025ab61b6dcdff2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045da740a0c3aebb58f3a345c5c1e609ae4ad6ce">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_523bbf7b5df53459607e2c2f68472e2ea071e5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/e0d4611c4852e577717a2a50922ba8d15b309983/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_f48ec38dca0e393e950c3484d80696e824d2e8d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luowanglin/.android/build-cache/d57f6b54ab6a7c9d6de07109c635e2c876cdc6fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/luowanglin/Desktop/Broadcaster/app/build/intermediates/pre-dexed/debug/classes_69b1270aa53bbed0e6c0d8e56e8ee45dfa951451.jar" />
+    </item>
+
+</items>

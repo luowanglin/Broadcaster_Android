@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.luowanglin.android.broadcaster.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/lamp"
+            android:layout_gravity="center" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="40dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="45dp"
+                android:textSize="19dp"
+                android:id="@+id/hourBtn"
+                android:textColor="@color/colorGray"
+                android:text="--"/>
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:textSize="19dp"
+                android:text="时"/>
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="45dp"
+                android:textSize="19dp"
+                android:id="@+id/minuteBtn"
+                android:textColor="@color/colorGray"
+                android:text="--"/>
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:textSize="19dp"
+                android:text="分"/>
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="45dp"
+                android:textSize="19dp"
+                android:id="@+id/secondBtn"
+                android:textColor="@color/colorGray"
+                android:text="--"/>
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:textSize="19dp"
+                android:text="秒"/>
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="45dp"
+                android:textSize="19dp"
+                android:id="@+id/contrBtn"
+                android:textColor="@color/colorGreen"
+                android:text="开"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <EditText
+                android:id="@+id/timenumber"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:hint="静默时间"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:theme="@style/MyEditText"
+                android:numeric="integer"
+                android:imeOptions="actionDone"
+                android:background="@drawable/edt_bg"
+                android:textColor="@color/colorGray"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorGray"
+                android:textAlignment="center"
+                android:layout_marginTop="21dp"
+                android:layout_marginLeft="2dp"
+                android:layout_toRightOf="@id/timenumber"
+                android:text="ms"/>
+        </RelativeLayout>
+
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:id="@+id/submitBtn"
+            android:text="下发"
+            android:textSize="22dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/colorGreen"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="@color/colorGraySmal"
+            android:text="默认值40ms,最大静默值1000ms"
+            android:gravity="center"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
+
